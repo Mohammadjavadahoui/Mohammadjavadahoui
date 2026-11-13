@@ -1,93 +1,50 @@
-<!-- ================= HEADER ================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=190&section=header&text=Mohammad%20Javad&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Python%20Developer%20%E2%80%A2%20Bots%20%E2%80%A2%20Dashboards&descSize=18&descAlignY=58" alt="header" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=3B82F6&center=true&vCenter=true&width=640&height=50&lines=%F0%9F%91%8B+Hi+there!+I'm+Mohammad+Javad;I+build+bots+%26+desktop+dashboards;I+love+clean+and+modern+UI;Python+%7C+Django+%7C+Flet" alt="Typing SVG" />
-</a>
+<img src="assets/header.svg" alt="Mohammad Javad" width="100%" />
 
 <br/>
 
-<!-- Social badges: replace the links with your own -->
-<a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0A0F18" /></a>
+<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A0F18" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0F18" /></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0F18" /></a>
 
-<br/><br/>
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<img src="https://komarev.com/ghpvc/?username=Mohammadjavadahoui&label=Profile%20views&color=3b82f6&style=flat-square" alt="views" />
+### ✦ About
 
-</div>
-
----
-
-## 👨‍💻 About me
-
-Hi! I'm **Mohammad Javad**, a Python developer. I enjoy turning ideas into
-working tools: **chat bots**, **desktop dashboards** and **modern websites**.
-I care a lot about how things look, so every project I build gets a clean,
-polished interface.
+<img src="assets/terminal.svg" alt="terminal" width="100%" />
 
 <div dir="rtl">
 
-سلام! من **محمدجواد** هستم، برنامه‌نویس پایتون. عاشق ساخت ربات، داشبورد دسکتاپ و سایت‌هایی هستم که هم کار کنند و هم قشنگ باشند.
+سلام! من **محمدجواد** هستم، برنامه‌نویس پایتون.
+ربات، داشبورد دسکتاپ و سایت می‌سازم و برایم مهمه که هر چیزی که می‌سازم هم درست کار کنه و هم قشنگ باشه.
 
 </div>
 
-- 🔭 Currently building bots, dashboards and Django websites
-- 🎨 Obsessed with dark, modern and animated UIs
-- 🌱 Always learning something new
-- 📫 Reach me through the badges above
+<img src="assets/divider.svg" width="100%" alt="" />
 
----
+### ✦ Stack
 
-## 🛠️ Tools & Technologies
+<img src="assets/skills.svg" alt="skills" width="100%" />
 
-<div align="center">
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<img src="https://skillicons.dev/icons?i=python,django,sqlite,html,css,js,git,github,linux,vscode&perline=10" alt="skills" />
+### ✦ Numbers
 
-<br/><br/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohammadjavadahoui&show_icons=true&hide_border=true&border_radius=18&bg_color=0A0F18&title_color=60A5FA&icon_color=A78BFA&text_color=CBD5E1&ring_color=22D3EE" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadjavadahoui&layout=compact&hide_border=true&border_radius=18&bg_color=0A0F18&title_color=60A5FA&text_color=CBD5E1" alt="top languages" />
 
-<img src="https://img.shields.io/badge/Flet-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-<img src="https://img.shields.io/badge/Openpyxl-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
-</div>
+### ✦ Featured
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohammadjavadahoui&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadjavadahoui&layout=compact&theme=tokyonight&hide_border=true&border_radius=16" alt="top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Mohammadjavadahoui&theme=tokyonight&hide_border=true&border_radius=16" alt="streak" />
-
-</div>
-
----
-
-## 🚀 Featured projects
-
-<!-- After pinning your repos, this section can stay or be removed -->
 | Project | What it does |
-| ------- | ------------ |
-| **Work Logger** | Desktop app (Flet) that tracks working time, idle time, apps and daily goals, with Excel reports |
-| **Your project 2** | One short line about it |
-| **Your project 3** | One short line about it |
+| :-- | :-- |
+| **Work Logger** | Flet desktop app that tracks working time, idle time, apps and daily goals, with Excel reports |
+| **Project 2** | One short line |
+| **Project 3** | One short line |
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=110&section=footer" alt="footer" />
+<img src="assets/footer.svg" width="100%" alt="" />
 
 </div>
