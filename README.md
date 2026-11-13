@@ -30,13 +30,6 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-### ✦ Numbers
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohammadjavadahoui&show_icons=true&hide_border=true&border_radius=18&bg_color=0A0F18&title_color=60A5FA&icon_color=A78BFA&text_color=CBD5E1&ring_color=22D3EE" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadjavadahoui&layout=compact&hide_border=true&border_radius=18&bg_color=0A0F18&title_color=60A5FA&text_color=CBD5E1" alt="top languages" />
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
 ### ✦ Featured
 
 | Project | What it does |

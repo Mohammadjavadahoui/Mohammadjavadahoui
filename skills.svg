@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 192" width="1000" height="192" role="img" aria-label="skills">
+<defs><filter id="g" x="-200%" y="-200%" width="500%" height="500%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect x="3" y="3" width="994" height="186" rx="20" fill="#0A0F18" stroke="#1F2937"/>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3.0s" begin="-0.0s" repeatCount="indefinite"/>
+    <rect x="40" y="34" width="140" height="52" rx="14" fill="#111827" stroke="#60A5FA" stroke-opacity="0.45">
+      <animate attributeName="stroke-opacity" values="0.3;0.95;0.3" dur="4.0s" begin="-0.0s" repeatCount="indefinite"/></rect>
+    <circle cx="62" cy="60" r="5" fill="#60A5FA" filter="url(#g)"/>
+    <text x="78" y="65" font-family="'Fira Code','JetBrains Mono','Cascadia Code','Consolas','Courier New',monospace" font-size="14" font-weight="600" fill="#E2E8F0">Python</text>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3.6s" begin="-0.4s" repeatCount="indefinite"/>
+    <rect x="196" y="34" width="140" height="52" rx="14" fill="#111827" stroke="#F472B6" stroke-opacity="0.45">
+      <animate attributeName="stroke-opacity" values="0.3;0.95;0.3" dur="4.6s" begin="-0.3s" repeatCount="indefinite"/></rect>
+    <circle cx="218" cy="60" r="5" fill="#F472B6" filter="url(#g)"/>
+    <text x="234" y="65" font-family="'Fira Code','JetBrains Mono','Cascadia Code','Consolas','Courier New',monospace" font-size="14" font-weight="600" fill="#E2E8F0">C++</text>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="4.2s" begin="-0.8s" repeatCount="indefinite"/>
+    <rect x="352" y="34" width="140" height="52" rx="14" fill="#111827" stroke="#FACC15" stroke-opacity="0.45">
+      <animate attributeName="stroke-opacity" values="0.3;0.95;0.3" dur="5.2s" begin="-0.6s" repeatCount="indefinite"/></rect>
+    <circle cx="374" cy="60" r="5" fill="#FACC15" filter="url(#g)"/>
+    <text x="390" y="65" font-family="'Fira Code','JetBrains Mono','Cascadia Code','Consolas','Courier New',monospace" font-size="14" font-weight="600" fill="#E2E8F0">JavaScript</text>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3.0s" begin="-1.2s" repeatCount="indefinite"/>
+    <rect x="508" y="34" width="140" height="52" rx="14" fill="#111827" stroke="#FB923C" stroke-opacity="0.45">
+      <animate attributeName="stroke-opacity" values="0.3;0.95;0.3" dur="4.0s" begin="-0.9s" repeatCount="indefinite"/></rect>
+    <circle cx="530" cy="60" r="5" fill="#FB923C" filter="url(#g)"/>
+    <text x="546" y="65" font-family="'Fira Code','JetBrains Mono','Cascadia Code','Consolas','Courier New',monospace" font-size="14" font-weight="600" fill="#E2E8F0">HTML / CSS</text>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3.6s" begin="-1.6s" repeatCount="indefinite"/>
+    <rect x="664" y="34" width="140" height="52" rx="14" fill="#111827" stroke="#34D399" stroke-opacity="0.45">
+      <animate attributeName="stroke-opacity" values="0.3;0.95;0.3" dur="4.6s" begin="-1.2s" repeatCount="indefinite"/></rect>
+    <circle cx="686" cy="60" r="5" fill="#34D399" filter="url(#g)"/>
+    <text x="702" y="65" font-family="'Fira Code','JetBrains Mono','Cascadia Code','Consolas','Courier New',monospace" font-size="14" font-weight="600" fill="#E2E8F0">Django</text>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="4.2s" begin="-2.0s" repeatCount="indefinite"/>
+    <rect x="820" y="34" width="140" height="52" rx="14" fill="#111827" stroke="#22D3EE" stroke-opacity="0.45">
+      <animate attributeName="stroke-opacity" values="0.3;0.95;0.3" dur="5.2s" begin="-1.5s" repeatCount="indefinite"/></rect>
+    <circle cx="842" cy="60" r="5" fill="#22D3EE" filter="url(#g)"/>
+    <text x="858" y="65" font-family="'Fira Code','JetBrains Mono','Cascadia Code','Consolas','Courier New',monospace" font-size="14" font-weight="600" fill="#E2E8F0">Flet</text>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3.0s" begin="-2.4s" repeatCount="indefinite"/>
+    <rect x="118" y="106" width="140" height="52" rx="14" fill="#111827" stroke="#4ADE80" stroke-opacity="0.45">
+      <animate attributeName="stroke-opacity" values="0.3;0.95;0.3" dur="4.0s" begin="-1.8s" repeatCount="indefinite"/></rect>
+    <circle cx="140" cy="132" r="5" fill="#4ADE80" filter="url(#g)"/>
+    <text x="156" y="137" font-family="'Fira Code','JetBrains Mono','Cascadia Code','Consolas','Courier New',monospace" font-size="14" font-weight="600" fill="#E2E8F0">Selenium</text>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3.6s" begin="-2.8s" repeatCount="indefinite"/>
+    <rect x="274" y="106" width="140" height="52" rx="14" fill="#111827" stroke="#A78BFA" stroke-opacity="0.45">
+      <animate attributeName="stroke-opacity" values="0.3;0.95;0.3" dur="4.6s" begin="-2.1s" repeatCount="indefinite"/></rect>
+    <circle cx="296" cy="132" r="5" fill="#A78BFA" filter="url(#g)"/>
+    <text x="312" y="137" font-family="'Fira Code','JetBrains Mono','Cascadia Code','Consolas','Courier New',monospace" font-size="14" font-weight="600" fill="#E2E8F0">SQLite</text>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="4.2s" begin="-3.2s" repeatCount="indefinite"/>
+    <rect x="430" y="106" width="140" height="52" rx="14" fill="#111827" stroke="#F87171" stroke-opacity="0.45">
+      <animate attributeName="stroke-opacity" values="0.3;0.95;0.3" dur="5.2s" begin="-2.4s" repeatCount="indefinite"/></rect>
+    <circle cx="452" cy="132" r="5" fill="#F87171" filter="url(#g)"/>
+    <text x="468" y="137" font-family="'Fira Code','JetBrains Mono','Cascadia Code','Consolas','Courier New',monospace" font-size="14" font-weight="600" fill="#E2E8F0">Git</text>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3.0s" begin="-3.6s" repeatCount="indefinite"/>
+    <rect x="586" y="106" width="140" height="52" rx="14" fill="#111827" stroke="#E5E7EB" stroke-opacity="0.45">
+      <animate attributeName="stroke-opacity" values="0.3;0.95;0.3" dur="4.0s" begin="-2.7s" repeatCount="indefinite"/></rect>
+    <circle cx="608" cy="132" r="5" fill="#E5E7EB" filter="url(#g)"/>
+    <text x="624" y="137" font-family="'Fira Code','JetBrains Mono','Cascadia Code','Consolas','Courier New',monospace" font-size="14" font-weight="600" fill="#E2E8F0">Linux</text>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3.6s" begin="-4.0s" repeatCount="indefinite"/>
+    <rect x="742" y="106" width="140" height="52" rx="14" fill="#111827" stroke="#F9A8D4" stroke-opacity="0.45">
+      <animate attributeName="stroke-opacity" values="0.3;0.95;0.3" dur="4.6s" begin="-3.0s" repeatCount="indefinite"/></rect>
+    <circle cx="764" cy="132" r="5" fill="#F9A8D4" filter="url(#g)"/>
+    <text x="780" y="137" font-family="'Fira Code','JetBrains Mono','Cascadia Code','Consolas','Courier New',monospace" font-size="14" font-weight="600" fill="#E2E8F0">Ollama</text>
+  </g>
+</svg>
